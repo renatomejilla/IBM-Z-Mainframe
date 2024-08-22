@@ -20,6 +20,7 @@ has been released into the public domain.
 Download MVS 3.8J:
 Visit MVS Turnkey System.
 Download the MVS 3.8J Turnkey system archive.
+Link: https://wotho.pebble-beach.ch/tk4-/
 
 Step 4: Configure Hercules
 Extract MVS 3.8J:
